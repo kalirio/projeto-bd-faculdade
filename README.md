@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte da disciplina de Fundamentos de Banco d
 
 ---
 ## Modelo Lógico
-![Diagrama que mostra a estrutura e os relacionamentos do banco de dados](modelo_logico.png)
+![Diagrama que mostra a estrutura e os relacionamentos do banco de dados](modelo_logico.jpg)
 
 ## Estrutura do Repositório
 * `schema.sql`: Contém os comandos SQL para criar a estrutura do banco de dados.
